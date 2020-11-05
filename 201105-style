@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"> 
+		<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css">
+		<title>CSS基礎</title>
+		<style> 
+			body {background: lightyellow} 
+		</style> <!--標籤<style>，在<head>標籤內-->
+	</head>
+	<body style="background: lightyellow"> <!--在html標籤中，直接加入style屬性-->
+		<h1>Hello,World</h1>
+	</body>
+</html>
+<!--2擇1-->
